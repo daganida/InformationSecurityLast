@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\finalProxy\bin\Debug\HTTPProxyServer.exe.config
+\\Mac\Home\Desktop\finalProxy\obj\x86\Debug\HTTPProxyServer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\finalProxy\bin\Debug\cert.cer
+\\Mac\Home\Desktop\finalProxy\bin\Debug\HTTPProxyServer.exe
+\\Mac\Home\Desktop\finalProxy\bin\Debug\HTTPProxyServer.pdb
+\\Mac\Home\Desktop\finalProxy\obj\x86\Debug\HTTPProxyServer.exe
+\\Mac\Home\Desktop\finalProxy\obj\x86\Debug\HTTPProxyServer.pdb
